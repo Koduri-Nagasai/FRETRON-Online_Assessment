@@ -1,0 +1,6 @@
+1. https://www.geeksforgeeks.org/maximum-cells-attacked-by-rook-or-bishop-in-given-chessboard/
+2. https://leetcode.com/problems/word-search-ii/description/
+3. https://leetcode.com/problems/n-queens/description/
+4. https://leetcode.com/problems/robot-room-cleaner/description/
+5. https://leetcode.com/problems/unique-paths-iii/description/
+
